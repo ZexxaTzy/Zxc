@@ -1,5 +1,5 @@
 {
-  "base_url": "http://panel.pterodactyl.cloud:4706",
+  "base_url": "http://ramjiprivate.sanzcloud.biz.id:25584",
   "firebase": {
     "apiKey": "AIzaSyBRsOATFHKfD6r-CJB0O1UsPjr5IcLJgWw",
     "appId": "1:363878670681:android:f1c065c4a55b0d5b512c48",
@@ -9,7 +9,7 @@
   },
   "update": {
     "enabled": true,
-    "version": "3.0.6",
+    "version": "3.0.25",
     "apk_url": "https://www.mediafire.com/",
     "force": false,
     "changelog": "Versi terbaru aplikasi."
